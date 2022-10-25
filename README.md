@@ -1,7 +1,4 @@
- 38  
-readme.md
-@@ -1 +1,37 @@
-# hello microverse project
+
 # hello microverse project
 
 > This project has been built as part of the reviewers exercise or training.
